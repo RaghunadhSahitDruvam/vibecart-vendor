@@ -1,0 +1,43 @@
+.table thead {
+  background: #006081;
+}
+.table thead th {
+  color: #fff !important;
+}
+.table td b {
+  font-size: 15px;
+}
+.table td svg {
+  width: 30px;
+  height: 30px;
+}
+.table__img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.table__productImg {
+  height: 150px;
+  height: 100px;
+  object-fit: cover;
+}
+.ver {
+  width: 32px;
+  height: 32px;
+}
+.not_processed {
+  color: #e3503e;
+}
+.processing {
+  color: #54b7d3;
+}
+.dispatched {
+  color: #1e91cf;
+}
+.cancelled {
+  color: #e3d4d4;
+}
+.completed {
+  color: #4cb64c;
+}
